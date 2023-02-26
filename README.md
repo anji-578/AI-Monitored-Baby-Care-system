@@ -110,6 +110,8 @@ Sleep is detected if the baby is closing eyes for more then 10secs
    - sucking hands
    - Opening and closing of mouth
    - Fist 
+
+  
 If the co-ordinates of hand is close to the mouth for more than 10 sec hungerness is detected.
 
 ![Hunger_detected](https://user-images.githubusercontent.com/68511369/221434646-ceb9991b-a9dd-448e-b497-e1a60da0e5bc.png)
