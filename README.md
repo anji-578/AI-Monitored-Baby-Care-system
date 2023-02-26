@@ -4,9 +4,9 @@
 #### OBJECTIVES AND GOAL
 
  - The objective of our project is to build a smart baby-care/monitoring system, which would monitor the various physical parameters around the baby and inform the parents about it through wireless communication.
- - We intergrated IOT and computer Vision to make an automated system. 
- - In **IOT system** takes cares of physical paremeters of the baby. We have an **Dashboard** in **Arduino IOT** cloud where the sensor data will be uploaded lively and displayed in terms of graphs.
- - In **Computer Vision system** monitor module we will monitor baby movements and using the baby cues we predict the following :- **Sleeping Posture,Hungerness,Tiredness** of the baby.
+ - We intergrated **IOT and computer Vision** to make an automated system. 
+ - **IOT system** takes cares of physical paremeters of the baby. We have an **Dashboard** in **Arduino IOT cloud** where the sensor data will be uploaded lively and displayed in terms of graphs.
+ - In **Computer Vision system** module we will monitor baby movements and using the baby cues we predict the following :- **Sleeping Posture,Hungerness,Tiredness** of the baby.
 
 
 ## Output Screenshots with explanation
